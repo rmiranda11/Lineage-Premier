@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- {{!-- Reset CSS --}} -->
+    <link rel="stylesheet" href="./styles.css">
 
     <!-- {{!-- BootStrap --}} -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
@@ -17,7 +18,7 @@
         crossorigin="anonymous"></script>
     
     <!-- {{!-- Customized CSS --}} -->
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css"> 
     
     <!-- {{!-- Google Font --}} -->
     <link href="https://fonts.googleapis.com/css?family=IM+Fell+English|IM+Fell+English+SC" rel="stylesheet">
@@ -57,9 +58,12 @@
                             <span class="sr-only">(current)</span>
                         </a>
                         <i class="fas fa-certificate fa-lg d-flex flex-column fa-spin"></i>
+                    <!-- <li class="nav-item">
+                            <a class="nav-link navtext " style="color:black" ="#">Home</a>
+                    </li> -->
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link navtext" href="./about.html" style="color:black" id="about-button">About</a>
+                        <a class="nav-link navtext" href="./index.html" style="color:black" id="about-button">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link navtext" href="./contact.html" style="color:black" id="contact-button">Contact</a>
@@ -72,35 +76,31 @@
 
       <!-- nav ends here-->
 
-      <!-- main background container -->
+      <div class="main container">
 
-      <div class="button container">
+        <img class="background " src="./logo.jpg" alt="background">
+        <!-- <button type="button" class="button1 d-inline-flex p-2 btn btn-warning">Warning</button> -->
 
-            <div class="btn-group d-flex btn-group-lg justify-content-center" role="group" aria-label="Basic example">
-                <button type="button" id="intro" class="btn btn-success">Intro</button>
-                <button type="button" id="diet" class="btn btn-primary">Lineage Diet</button>
-                <button type="button" id="consult" class="btn btn-secondary">Private Consulting</button>
+
+        <div class= "content container">
+          <div class= "row">
+            <div class="col-sm">
 
             </div>
-             </div>
+            <div class="col-sm">
+              
+              </div>
+              <div class="col-sm">
+              
+                </div>
+          </div>
+
+        </div>
+      </div>
+        
+        
+        
+
     
-      <div class="main container" id="main">
-
-        
-        <img class="background " src="./logo.jpg" alt="background">
-        
-      </div>
-
-<!-- container ends here -->
-
-      <!--- footer -->
-      <div class= "container">
-          <p class="foot d-flex align-items-center justify-content-center">&copy All Rights Reserved 2016</p>
-
-      </div>
-        
-
-      <script type="text/javascript" src="./logic.js"></script>
-
 </body>
 </html>
