@@ -9,7 +9,7 @@ $(function() {
         // Stop the browser from submitting the form.
         event.preventDefault();
  
-    });
+   
     var formData = $(form).serialize();
 
     $.ajax({
@@ -44,4 +44,5 @@ $(function() {
             $(formMessages).text('Oops! An error occured and your message could not be sent.');
         }
     });
+});
 });
