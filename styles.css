@@ -1,12 +1,12 @@
 .about-wrapper {
     color:white;
     margin:0px;
-    border-style:dashed;
+    border-style:inset;
     border-color:rgb(235, 230, 230);
     border-width:4px 4px 0px 4px; 
     padding:20px;
     font-size:18px; 
-    border-bottom: solid white 2px;
+    /* border-bottom: solid white 2px; */
     font-family: 'Libre Baskerville', serif;
 
 }
@@ -29,7 +29,7 @@
 .about-dogs{
     color:white;
     margin:0px;
-    border-style:dashed;
+    border-style:inset;
     border-color:rgb(235, 230, 230);
     border-width:0px 4px 4px 4px; 
     padding:20px;
@@ -64,6 +64,8 @@
     border-width:4px 4px 4px 4px; 
     padding:20px;
     font-size:18px; 
+    font-family: 'Libre Baskerville', serif;
+
 }
 
 .dog{
@@ -72,12 +74,14 @@
 
 .diet {
     color:white;
-    margin:5px;
+    margin:4px;
     border-style:inset;
     border-color:rgb(235, 230, 230);
     border-width:4px 4px 4px 4px; 
-    padding:30px;
+    padding:20px;
     font-size:18px;
+    font-family: 'Libre Baskerville', serif;
+
 }
 
 .dog-div {
@@ -88,10 +92,12 @@
 .contact {
     color:white;
     margin:0px;
-    border-style:dashed;
+    border-style:inset;
     border-color:rgb(235, 230, 230);
-    border-width:4px 4px 0px 4px; 
+    border-width:4px 4px 4px 4px; 
     padding:20px;
+    font-family: 'Libre Baskerville', serif;
+
 }
 
 .footer{
@@ -109,6 +115,7 @@
     border-width:4px 4px 4px 4px; 
     font-size:20px;
     color: white;
+    
 }
 
 .hr {
@@ -125,7 +132,9 @@
     padding:20px;
     font-size:20px;
     word-spacing: 3px;
-    text-indent:7%;
+    font-family: 'Libre Baskerville', serif;
+
+    /* text-indent:7%; */
 }
 
 .main {
