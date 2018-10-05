@@ -1,6 +1,6 @@
 var diet = ("<div class = 'diet main container'>" + 
 "<h2>Lineage Diet</h2>" +
-"<div class= 'row container'>" +
+"<div class= 'row member container'>" +
 "<img class='col-md-4 pic img-fluid  p-2' src='./tuxpi.com.1538438727.jpg' alt='food'>" +
 "<img class='col-md-4 pic img-fluid  p-2' src='./food_1.jpg' alt='food'></div>" +
 "<p> 85% Meat: Majority should be Poultry with a raw egg with or without the shell. <br>" + 
@@ -15,13 +15,13 @@ var diet = ("<div class = 'diet main container'>" +
 "The entire family (your pup included) will see how easily the switch to a Lineage Diet will cause immediate changes in your canine. Health is wealth.</p></div>");
 
 var intro = ("<div class = 'diet main container'><div main class ='d-flex justify-content-center intro container'>" + 
-"<p class='introduction row'> We are Lineage Premier, advocates and educators on all natural diets for your beloved canines. Here we will provide information and services to help make the transition seamless! For those who already feed their canines a raw diet we would love to work with you! We hope you enjoy our website and hope to hear from you soon!</p>" +
-"<iframe width='560' height='315' class='vid row' src='https://www.youtube.com/embed/vpsmFriUyBc' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe></div></div>")
+"<p class='introduction row d-flex align-items-center justify-content-center '> We are Lineage Premier, advocates and educators on all natural diets for your beloved canines. Here we will provide information and services to help make the transition seamless! For those who already feed their canines a raw diet we would love to work with you! We hope you enjoy our website and hope to hear from you soon!</p>" +
+"<div class='row'> <iframe width='560' height='315' class='vid row' src='https://www.youtube.com/embed/vpsmFriUyBc' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe></div></div></div>")
 
 var consult = ("<div class = 'consult main container'>" + 
-"<div class='row'>" +
+"<div class='row member'>" +
 "<h2>Membership</h2>" +
-"<div class=''>"+
+"<div class='member'>"+
 // "<img class='d-flex justify-content-end' src='' alt='member'> </div>" +
 "<p class=> We offer 3 types of plans per canine: <br>" + 
 "Basic - Monthly - $20 <br>" + 
