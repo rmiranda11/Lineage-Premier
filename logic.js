@@ -1,8 +1,8 @@
 var diet = ("<div class = 'diet main container'>" + 
 "<h2>Lineage Diet</h2>" +
-"<div class= 'row member container'>" +
-"<img class='col-md-4 pic img-fluid  p-2' src='./tuxpi.com.1538438727.jpg' alt='food'>" +
-"<img class='col-md-4 pic img-fluid  p-2' src='./food_1.jpg' alt='food'></div>" +
+"<div class= 'row member container justify-content-sm-center'>" +
+"<img class=' justify-content-sm-center' src='./tuxpi.com.1538438727.jpg' alt='food'>" +
+"<img class=' justify-content-sm-center' src='./food_1.jpg' alt='food'></div>" +
 "<p> 85% Meat: Majority should be Poultry with a raw egg with or without the shell. <br>" + 
 "10% Vegetables of the following: Broccoli Heads, Brussel Sprouts, Carrots, Celery Cucumbers," +
 " Green Beans, and Peas. <br>" + 

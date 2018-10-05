@@ -36,7 +36,7 @@
     font-size:18px; 
 }
 .body {
-    background-color: black;
+    background-color: rgb(8, 42, 53);
 }
 
 .big {
@@ -44,9 +44,9 @@
 
 }
 .background {
-    width:100%;
-    height:100%;
-    border-style:dashed;
+    width:70%;
+    height:70%;
+    border-style:none;
     border-color:rgb(235, 230, 230);
     border-width:4px 4px 0px 4px; 
 }
@@ -59,9 +59,9 @@
 .consult {
     color:white;
     margin:0px;
-    border-style:dashed;
+    border-style:inset;
     border-color:rgb(235, 230, 230);
-    border-width:4px 4px 0px 4px; 
+    border-width:4px 4px 4px 4px; 
     padding:20px;
     font-size:18px; 
 }
@@ -73,9 +73,9 @@
 .diet {
     color:white;
     margin:0px;
-    border-style:dashed;
+    border-style:inset;
     border-color:rgb(235, 230, 230);
-    border-width:4px 4px 0px 4px; 
+    border-width:4px 4px 4px 4px; 
     padding:10px;
     font-size:18px;
 }
@@ -104,7 +104,7 @@
 .foot{
     background-color: rgb(5, 26, 32);
     height: 8rem;
-    border-style:dashed;
+    border-style:none;
     border-color:rgb(235, 230, 230);
     border-width:4px 4px 4px 4px; 
     font-size:20px;
