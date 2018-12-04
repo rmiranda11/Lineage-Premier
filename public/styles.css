@@ -1,0 +1,339 @@
+.about-wrapper {
+    color:white;
+    margin:0px;
+    border-style:inset;
+    border-color:rgb(235, 230, 230);
+    border-width:4px 4px 0px 4px; 
+    padding:20px;
+    font-size:18px; 
+    /* border-bottom: solid white 2px; */
+    font-family: 'Text Me One', sans-serif;
+
+}
+
+.about-dogimg{
+    border-width:4px 4px 4px 4px; 
+    font-family: 'Text Me One', sans-serif;
+
+    
+}
+
+.about-txt {
+    font-family: 'Text Me One', sans-serif;
+    padding:10px;
+    text-indent: 30px;
+
+}
+
+.about-img{
+    padding:10px;
+}
+
+.about-dogs{
+    color:white;
+    margin:auto;
+    border-style:inset;
+    border-color:rgb(235, 230, 230);
+    border-width:0px 4px 4px 4px; 
+    font-size:18px; 
+}
+.body {
+    background-color: rgb(8, 42, 53);
+}
+
+.big {
+    background-attachment: fixed;
+
+}
+.background {
+    width:70%;
+    height:70%;
+    border-style:none;
+    border-color:rgb(235, 230, 230);
+    border-width:4px 4px 0px 4px; 
+    padding: 20px;
+}
+
+.button {
+    margin:10px auto;
+}
+
+.circle{
+    height:70%;
+    width:70%;
+    margin:20px;
+
+}
+
+.consult {
+    color:white;
+    margin:0px;
+    border-style:inset;
+    border-color:rgb(235, 230, 230);
+    border-width:4px 4px 4px 4px; 
+    padding:20px;
+    font-size:18px; 
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+.dog{
+    border-radius:80%;
+    width:auto;
+}
+
+.diet {
+    color:white;
+    margin:4px;
+    border-style:inset;
+    border-color:rgb(235, 230, 230);
+    border-width:4px 4px 4px 4px; 
+    padding:20px;
+    font-size:18px;
+    font-family: 'Text Me One', sans-serif;
+
+}
+
+.diet-txt{
+    font-size:22px;
+    font-weight: 200;
+    margin:10px;
+    text-indent:30px;
+    font-family: 'Text Me One', sans-serif;
+    color: white;
+}
+
+.contact {
+    color:white;
+    margin:0px;
+    border-style:inset;
+    border-color:rgb(235, 230, 230);
+    border-width:4px 4px 4px 4px; 
+    padding:10px;
+    font-family: 'Text Me One', sans-serif;
+
+}
+
+.card-body{
+    font-size:20px;
+}
+
+.card{
+    /* font-family: 'Text Me One', sans-serif; */
+    /* font-weight: bold; */
+    width:20rem;
+}
+
+.food{
+    border-radius: 85%;
+    width:20%;
+    height:20%;
+}
+.footer{
+    color:white;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+
+.foot{
+    background-color: rgb(5, 26, 32);
+    height: 8rem;
+    border-style:none;
+    border-color:rgb(235, 230, 230);
+    border-width:4px 4px 4px 4px; 
+    font-size:20px;
+    color: white;
+    
+}
+
+.food{
+    margin:20px;
+}
+
+.group{
+    margin:10px;
+}
+
+.hr {
+    color:white;
+}
+
+h2 {
+    font-family: 'Text Me One', sans-serif;
+}
+
+.intro {
+    margin:10px;
+    margin-bottom: 40px;
+
+}
+
+.introduction {
+    color:white;
+    margin:10px;
+    font-family: 'Text Me One', sans-serif;
+    padding:3px;
+    font-size:24px;
+    word-spacing: 2px;
+    text-align:center;
+
+}
+
+.login {
+    margin:20px;
+}
+
+.main {
+    background-color: rgb(8, 42, 53);
+    color:white;
+}
+
+.member{
+    margin:5px;
+    padding:5px;
+}
+
+.nav-link  {
+
+    color:black;
+}
+.navtext {
+    color:black;
+}
+.par{
+    font-family: 'Text Me One', sans-serif;
+}
+
+
+.pic{
+  width:100%;
+  height:auto;
+}
+
+.sheba{
+    width:90%;
+}
+
+.table{
+    color:white;
+    font-size:20px;
+    border: solid white 2px;
+}
+.title {
+    font-family: 'IM Fell English SC', serif;
+    font-size:35px;
+    margin-bottom: -10px;
+    margin-left: 30px;
+}
+
+.treats {
+    width:20%;
+    height:50%;
+    position:absolute;
+    border-radius: 50px;
+}
+
+.vid {
+    padding:10px;
+    margin:auto;
+}
+
+div#maintwo{
+    width:830px;
+    height:650px;
+    margin:0 auto;
+    font-family:'Ubuntu',sans-serif
+    }
+    div#form_sample{
+    text-align:center;
+    border:1px solid #ccc;
+    width:300px;
+    padding:0 50px 15px;
+    margin-top:20px;
+    box-shadow:0 0 15px;
+    border-radius:6px;
+    float:left
+    }
+    #maintwo h1{
+    margin-top:40px
+    }
+    hr{
+    margin-top:-5px
+    }
+    label{
+    float:left;
+    font-size:16px
+    }
+    input[type="text"]{
+    width:100%;
+    margin-top:10px;
+    height:35px;
+    margin-bottom:25px;
+    padding:10px;
+    border:3px solid #2BC1F2
+    }
+    textarea{
+    width:100%;
+    border:3px solid #2BC1F2;
+    padding:10px;
+    margin-bottom:25px;
+    margin-top:10px;
+    height:100px;
+    resize:none
+    }
+    input[type="submit"]{
+    width:100%;
+    padding:10px 45px;
+    background-color:#2BC1F2;
+    border:none;
+    color:#fff;
+    font-size:18px;
+    font-weight:700;
+    cursor:pointer;
+    font-family:'Ubuntu',sans-serif
+    }
+    /* -------------------------------------
+    CSS for Sidebar (optional)
+    ---------------------------------------- */
+    /* div#fugo{
+    float:right
+    } */
+
+    /* --------------------------------------
+    Responsive Buttons
+    ------------------------------------------*/
+    @media (max-width: 768px) {
+        .btn-responsive {
+          padding:2px 4px;
+          font-size:80%;
+          line-height: 1;
+          border-radius:3px;
+        }
+      }
+      
+      @media (min-width: 769px) and (max-width: 992px) {
+        .btn-responsive {
+          padding:4px 9px;
+          font-size:90%;
+          line-height: 1.2;
+        }
+      }
+
+/*------------------ Social Media--------------------*/
+/* .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+} */
