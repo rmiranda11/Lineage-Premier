@@ -19,9 +19,9 @@ and (max-device-width : 1024px)  {
 }
 
 @media only screen and (min-width: 1100px){
-/* .dog,.founder{
-    margin-left:m;
-} */
+.background{
+    height:80%;
+}
 }
 
 .about-wrapper {
@@ -147,12 +147,14 @@ and (max-device-width : 1024px)  {
 }
 
 .card-text{
-    font-size:.9rem;
+    font-size:1.1rem;
+    
 }
 .card{
     /* font-family: 'Text Me One', sans-serif; */
     /* font-weight: bold; */
-    width:20rem;
+    width:2rem;
+    margin:.1rem;
 }
 
 .food{
@@ -293,10 +295,7 @@ color:black;
 }
 
 .treats {
-    width:20%;
-    height:50%;
-    position:absolute;
-    border-radius: 50px;
+font-size: 1.5rem;
 }
 
 .vid {
