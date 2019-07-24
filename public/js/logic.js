@@ -28,8 +28,8 @@ var intro =("<div class = 'diet main container row'>" +
     "<div main class ='d-flex justify-content-center intro container'>" + 
     "<p class='introduction d-flex mb-2 '> We are Lineage Premier, advocates and educators on all natural diets for your beloved canines. Here we will provide information and services to help make the transition seamless! For those who already feed their canines a raw diet we would love to work with you! We hope you enjoy our website and hope to hear from you soon!</p>" +
     "</div> <br> <br> <br> <br> <hr><div><br><br></div> "  +
-    "<div class='embed-responsive embed-responsive-21by9 justify-content-center row vid'>" +
-        "<iframe width='560' height='315' class='justify-content-center' src='https://www.youtube.com/embed/vpsmFriUyBc' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>" +
+    "<div class='embed-responsive embed-responsive-4by3 justify-content-center row vid'>" +
+        "<iframe width='560' height='315' class='embed-responsive-item justify-content-center' src='https://www.youtube.com/embed/vpsmFriUyBc' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe>" +
         "</div>" +
 "</div>")
 

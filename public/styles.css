@@ -1,3 +1,29 @@
+@media only screen and (max-width: 600px){
+.card{
+    width:12rem;
+}
+
+.intro-h2-2{
+    margin-left:2rem;
+}
+
+
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+    .intro-p{
+        font-size:.9;
+    }
+}
+
+@media only screen and (min-width: 1100px){
+/* .dog,.founder{
+    margin-left:m;
+} */
+}
+
 .about-wrapper {
     color:white;
     margin:0px;
@@ -46,12 +72,12 @@
 
 }
 .background {
-    width:70%;
-    height:70%;
+    width:80%;
     border-style:none;
     border-color:rgb(235, 230, 230);
     border-width:4px 4px 0px 4px; 
-    padding: 20px;
+    margin:auto;
+    padding:auto;
 }
 
 .button {
@@ -74,12 +100,14 @@
     padding:20px;
     font-size:18px; 
     font-family: 'Libre Baskerville', serif;
-
 }
+
+
 
 .dog{
     border-radius:80%;
     width:auto;
+    margin:auto;
 }
 
 .diet {
@@ -118,6 +146,9 @@
     font-size:20px;
 }
 
+.card-text{
+    font-size:.9rem;
+}
 .card{
     /* font-family: 'Text Me One', sans-serif; */
     /* font-weight: bold; */
@@ -131,20 +162,21 @@
 }
 .footer{
     color:white;
-    margin-left: auto;
-    margin-right:auto;
+    /* margin-left: auto;
+    margin-right:auto; */
 
 }
 
 .foot{
     background-color: rgb(5, 26, 32);
-    height: 8rem;
+    height: 10rem;
+    width:100%;
     border-style:none;
     border-color:rgb(235, 230, 230);
     border-width:4px 4px 4px 4px; 
     font-size:20px;
     color: white;
-    
+    margin:2rem 0 -2rem;
 }
 
 .food{
@@ -155,17 +187,37 @@
     margin:10px;
 }
 
+.home{
+    width:82%;
+    background-color:#d5d4cc;
+    margin:3rem auto 0;
+    
+}
+
 .hr {
     color:white;
 }
 
 h2 {
     font-family: 'Text Me One', sans-serif;
+    text-align: center;
 }
 
-.intro {
-    margin:10px;
-    margin-bottom: 40px;
+.intro-h2{
+    margin:2rem 0 2rem 0rem;
+    text-align: center;
+}
+
+.intro-h2-2{
+    margin:2rem 0 0rem 1rem;
+    text-align: center;
+}
+.intro-p {
+    margin:3rem;
+    color: black;
+    font-size:1.2rem;
+    /* font-family: 'Libre Baskerville', serif; */
+    font-family: 'Text Me One', sans-serif;
 
 }
 
@@ -174,9 +226,9 @@ h2 {
     margin:10px;
     font-family: 'Text Me One', sans-serif;
     padding:3px;
-    font-size:24px;
-    word-spacing: 2px;
-    text-align:center;
+    font-size:22px;
+    word-spacing: 1px;
+    text-align:left;
 
 }
 
@@ -184,9 +236,12 @@ h2 {
     margin:20px;
 }
 
-.main {
-    background-color: rgb(8, 42, 53);
-    color:white;
+.logo{
+    margin:2rem 0 -2rem;
+}
+.main{
+background-color:#d5d4cc;
+color:black;
 }
 
 .member{
@@ -211,6 +266,16 @@ h2 {
   height:auto;
 }
 
+
+.row1{
+     border-style:double ;
+     border:0px 0px .2rem 0px outset black;
+}
+
+.row2{
+    border-style:double ;
+    border:0 0 .2rem 0 black;
+}
 .sheba{
     width:90%;
 }
@@ -235,8 +300,7 @@ h2 {
 }
 
 .vid {
-    padding:10px;
-    margin:auto;
+    margin:2rem 0 2rem;
 }
 
 div#maintwo{
