@@ -8,6 +8,7 @@
 }
 
 
+
 }
 
 @media only screen 
@@ -82,6 +83,10 @@ and (max-device-width : 1024px)  {
 
 .button {
     margin:10px auto;
+}
+
+.btn{
+    margin-left:3rem;
 }
 
 .circle{
@@ -215,7 +220,7 @@ h2 {
     text-align: center;
 }
 .intro-p {
-    margin:3rem;
+    margin:2rem;
     color: black;
     font-size:1.2rem;
     /* font-family: 'Libre Baskerville', serif; */
